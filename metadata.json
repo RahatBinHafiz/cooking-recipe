@@ -1,0 +1,6 @@
+{
+  "name": "Chicken Kitchen",
+  "description": "Your next favorite chicken dish starts here. Discover 120+ authentic chicken recipes from beginner comfort food to chef-level masterclasses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
